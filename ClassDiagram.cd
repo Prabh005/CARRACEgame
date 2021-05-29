@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RacingGame.AllClasses.Akash" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\Akash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.AllClasses.Factory">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.AllClasses.Prabneet" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\Prabneet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.AllClasses.Punter">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAQAAAABAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.AllClasses.Rahul">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\Rahul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.Cars">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAARAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacingGame.PlayGame">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAIEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
